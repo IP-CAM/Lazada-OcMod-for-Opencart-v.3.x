@@ -1,1 +1,1 @@
-# lazada-opencart
+# Lazada Importer OcMod for Opencart
